@@ -5,6 +5,7 @@ date:   2019-09-08 22:12:03 +0300
 categories: Solution
 ---
   ## Bilgilendirme
+  
   **Bu konu, kullanıcının veri kaybını önlemesini hedefleyerek paylaşılmıştır.
   Konudaki işlemleri uygulaması ve oluşabilecek her türden hasardan kullanıcı sorumludur.** 
 
