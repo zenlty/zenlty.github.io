@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rawprogram Nedir?"
+title:  "Project Treble Slot Değiştirme"
 date:   2019-09-08 15:21:03 +0300
 categories: project_treble
 
