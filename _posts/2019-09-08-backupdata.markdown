@@ -55,13 +55,13 @@ Bir diğer yol ise :
 
 Android Sürümü|Dahili Konumu| Fstab Konumu | İşlemci
 |--|--|--|--|
-|6.0 veya Eski Sürüm|Boot veya Recovery Imajı | /ramdisk/fstab.mt6XXX | MediaTek
-|6.0 veya Eski Sürüm|Boot veya Recovery Imajı | /ramdisk/fstab.qcom | Qualcomm
-|7.0 - 7.1.2 Arası Sürüm| /vendor  | /vendor/etc/fstab.mt6XXX | MediaTek
-|7.0 - 7.1.2 Arası Sürüm| /vendor  | /vendor/etc/fstab.qcom | Qualcomm
-|8.0  ve üzeri| /vendor  | /vendor/etc/fstab.mt6XXX | MediaTek
-|8.0  ve üzeri| /vendor  | /vendor/etc/fstab.qcom | Qualcomm
-| *Generic*| *Recovery Image* | /ramdisk/etc/recovery.fstab | Generic
+6.0 veya Eski Sürüm|Boot veya Recovery Imajı | /ramdisk/fstab.mt6XXX | MediaTek
+6.0 veya Eski Sürüm|Boot veya Recovery Imajı | /ramdisk/fstab.qcom | Qualcomm
+7.0 - 7.1.2 Arası Sürüm| /vendor  | /vendor/etc/fstab.mt6XXX | MediaTek
+7.0 - 7.1.2 Arası Sürüm| /vendor  | /vendor/etc/fstab.qcom | Qualcomm
+8.0  ve üzeri| /vendor  | /vendor/etc/fstab.mt6XXX | MediaTek
+8.0  ve üzeri| /vendor  | /vendor/etc/fstab.qcom | Qualcomm
+*Generic*| *Recovery Image* | /ramdisk/etc/recovery.fstab | Generic
 
 
 Burada partitionlara eriştikten sonra */data* veya *userdata/* bölümünü aratın. */dev/block* ile başlayan bölümü / sonuna kadar kopyalayın.
