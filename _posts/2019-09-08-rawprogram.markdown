@@ -22,7 +22,7 @@ Rawprogramı değişik isimlerle bulabilirsiniz.
 > rawprogram0_xml.BAK
 
 rawprogram0_X.xml dosyasını da yazdım ki farklı bir şey görürseniz şaşırmayın. Bu sadece bir rehber.
-### Rawprogram0.xml
+### **Rawprogram0.xml **
 -   Olur da böyle bir dosyayı görürseniz romunuzun parçalı olmadığını anlamanız gerekir.
 -   Romun parçalı olmadığı zamanlarda bu xml kullanılır.
 
@@ -38,7 +38,7 @@ rawprogram0_X.xml dosyasını da yazdım ki farklı bir şey görürseniz şaş�
 
 **Romunuz parçalıdır içerisinde Unsparse ya da Upgrade vardır ancak ihtiyacınız olabilir diye parcalanmamis halinde bir xml eklenmiştir.**
 
-### UnSparse ile UpGrade farkı
+###  **UnSparse ile UpGrade farkı **
 
 -   En önemli kısım budur. Unsparse ve upgrade arasındaki farklar çok önemlidir ki IMEI seri numarası gibi önemli bilgileri kayıp edebilirsiniz.
 -   Upgrade ile yükleme yaparsanız seri numaranız ve IMEI numaranız gibi bilgiler korunur. Sadece rom yüklenir ve cihazın /data birimi - dahili depolaması temizlenir
