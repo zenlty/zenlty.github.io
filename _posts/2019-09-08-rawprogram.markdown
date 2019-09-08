@@ -2,7 +2,7 @@
 layout: post
 title:  "Rawprogram Nedir?"
 date:   2019-09-08 15:21:03 +0300
-categories: jekyll update
+categories: qualcomm
 ---
 # Rawprogram ve Çeşitleri
 
