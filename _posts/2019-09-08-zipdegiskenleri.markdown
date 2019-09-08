@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A-AB Treble Zip Dönüştürme"
+title:  "A & AB Treble Zip Dönüştürme"
 date:   2019-09-08 21:40:03 +0300
 categories: Project Treble
 ---
