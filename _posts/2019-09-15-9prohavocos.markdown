@@ -11,15 +11,15 @@ categories: CustomRom
 *Tarafımca cihaza özgü özelleştirmeler ve hata düzeltmeleri yapılmıştır.*
 
 ## Çalışan Özellikler
-- Wi-Fi | Hotspot
+- Wi-Fi - Hotspot
 - Bluetooth
--  4G | LTE
+-  4G - LTE
 -  Always on Display (AOD)
 - Ses
 -  Arama Servisleri
--  MTP | PTP | Tethering
+-  MTP - PTP - Tethering
 -  Parmak İzi
--  Çift Dokunuşla Açma | Kapatma
+-  Çift Dokunuşla Açma - Kapatma
 -  HavocOS AOD Özelleştirmeleri
 -  Bildirim Işığı (LED)
 - Parlaklık Çubuğu
